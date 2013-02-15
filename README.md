@@ -123,7 +123,12 @@ You can access the commands either using the command palette (`ctrl+shift+P` or 
 
 **Classes**
 
-	Class - cla
+	Class: cla
+
+**Logging**
+    
+    Log statement:          log
+    Log object/description: logo
 
 **Other**
 
